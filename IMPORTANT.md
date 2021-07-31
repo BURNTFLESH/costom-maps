@@ -6,7 +6,7 @@
 # important things 
 on the computer if it says 0 people online reopen Gorilla tag till it say 1 then enter friends custom code
 
-
+_______________________________________________________________________________________________________
 
  Step1.install all the files linked
  
