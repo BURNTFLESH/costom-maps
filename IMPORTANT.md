@@ -6,9 +6,11 @@
 # important things 
 on the computer if it says 0 people online reopen Gorilla tag till it say 1 then enter friends custom code
 
+
+# downloads:https://drive.google.com/drive/folders/1UrGZwegrxoqkwQemd6td2myilZBhfmad?usp=sharing
 _______________________________________________________________________________________________________
 
- Step1.install all the files linked
+ Step1.install all the files from the google drive
  
  Step2.delete Gorilla tag
  
